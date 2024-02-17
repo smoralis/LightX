@@ -36,3 +36,4 @@ Radio:
     Genre
     Codec - Bitrate - Sample Rate - Channels
 
+![alt text](https://i.imgur.com/TPdiPT6.jpeg)
