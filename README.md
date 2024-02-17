@@ -1,7 +1,12 @@
 # LightX
 LightX Skin for foobar2000 Mobile, v1.5 preview 
 
+Android
 Use the last v1.5 preview available https://www.foobar2000.org/apk
+
+iOS
+Subscribe to get betas from TestFlight-
+https://www.foobar2000.org/test-ios
 
 Displayed fields:
 
